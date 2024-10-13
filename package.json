@@ -1,7 +1,7 @@
 {
   "name": "react-example",
   "version": "1.0.0",
-  "description": "Simple React example app",
+  "description": "React Demo",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --inline --content-base ./ --env.dev",
@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mzabriskie/react-example"
+    "url": "https://github.com/suptechie/react-demo"
   },
   "author": "Matt Zabriskie",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mzabriskie/react-example/issues"
+    "url": "https://github.com/suptechie/react-demo/issues"
   },
-  "homepage": "https://github.com/mzabriskie/react-example",
+  "homepage": "https://github.com/suptechie/react-demo",
   "dependencies": {
     "axios": "0.13.1",
     "bootstrap": "^3.3.5",
